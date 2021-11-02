@@ -59,3 +59,4 @@ $ cat ./git/config
 $ git remote add origin {복사한 원격 저장소 주소}
 ```
 
+5. 파일 상태 확인하기
